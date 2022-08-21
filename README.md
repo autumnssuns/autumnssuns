@@ -181,5 +181,5 @@ _Levelling up_
 
 # 📊 Statistics
 
-[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=autumnssuns&count_private=true&show_icons=true&theme=vue)](https://github.com/autumnssuns)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autumnssuns&count_private=true&layout=compact&theme=vue)](https://github.com/haard-shah)
+[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=autumnssuns&include_all_commits=false&count_private=true&show_icons=true&theme=vue)](https://github.com/autumnssuns)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autumnssuns&count_private=true&layout=compact&theme=vue)](https://github.com/autumnssuns)
