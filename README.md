@@ -23,6 +23,10 @@ Academically, I am a high achiever with perfect GPA (7.0 / 7.0) 💯. Outside of
 
 _Not in the literal sense... Listed in order of mastery (**Proficient** to **Just started**)._
 
+<details open>
+
+<summary> Click to hide / show details </summary>
+
 ## 🗡️ Languages
 <!--
 Look for icons at https://simpleicons.org/
@@ -71,9 +75,15 @@ _Not that important, but might be a good conversation starter_
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+</details>
+
 # 💡 Projects
 
 _+ EXP. These projects can be part of my degree, or a personal project._
+
+<details open>
+
+<summary> Click to hide / show details </summary>
 
 ## 🚧 Work in progress...
 
@@ -154,12 +164,18 @@ _Things I have done, and may not work on again_
 
 ---
 
+</details>
+
 <!-- 
 # 🧑‍💼 Professional Experience
 -->
 # 🧑‍🎓 Training 
 
 _Levelling up_
+
+<details open>
+
+<summary> Click to hide / show details </summary>
 
 👨‍💻 Bachelor of Information Technology (Computer Science) and, <br> 💻 Bachelor of Mathematics (Applied & Computational Mathematics), **Queensland University of Technology**, *2020 - Current*
 
@@ -178,6 +194,8 @@ _Levelling up_
 ` Overall Position: 1`
 
 `Dux of School 2019`
+
+</details>
 
 # 📊 Statistics
 
