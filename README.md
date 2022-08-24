@@ -91,17 +91,19 @@ _Things I am currently working on, either as a student project, or personal proj
 
 ---
 
-### ➡️ GitHub Portfolio (including this), **Personal Project**, *Aug 2022 - Current*
+#### ➡️ GitHub Portfolio (including this), **Personal Project**, *Aug 2022 - Current*
 ![GitHub](https://img.shields.io/badge/GitHub-DDD?&logo=github&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-DDD?&logo=Markdown&logoColor=black)
 
-### ➡️ Team scheduling app, **Personal Project**, *Aug 2022 - Current*
+#### ➡️ [Team scheduling app](https://github.com/autumnssuns/react-ts-docker), **Personal Project**, *Aug 2022 - Current*
 ![Docker](https://img.shields.io/badge/Docker-DDD?&logo=docker&logoColor=2496ED)
 ![Node.js](https://img.shields.io/badge/Node.js-DDD?&logo=Node.js&logoColor=339933)
 ![Typescript](https://img.shields.io/badge/TypeScript-DDD?&logo=TypeScript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-DDD?&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-DDD?logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-DDD?logo=CSS3&logoColor=1572B6)
+
+Like when2meet, but allow registration and default calendar. May take an `.ics` file
 
 ---
 
@@ -111,13 +113,13 @@ _Things I want to learn or do. Can include skills_
 
 ---
 
-### ➡️ Cloud computing project
+#### ➡️ Cloud computing project
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-DDD?logo=Kubernetes&logoColor=326CE5)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-DDD?logo=Amazon-AWS&logoColor=232F3E)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-DDD?logo=AWS-lambda&logoColor=FF9900)
 
-### ➡️ Blazor Web Project
+#### ➡️ Blazor Web Project
 
 ![Blazor](https://img.shields.io/badge/Blazor-DDD?logo=Blazor&logoColor=512BD4)
 
@@ -129,7 +131,7 @@ _Things I have done, and may not work on again_
 
 ---
 
-### ➡️ Electronic Trading Platform, **CAB302: Software Development Project**, *Mar 2021 - Jun 2021*
+#### ➡️ [Electronic Trading Platform](https://github.com/autumnssuns/Sem1_2021_CAB302_Group024_eTrade), **CAB302: Software Development Project**, *Mar 2021 - Jun 2021*
 
 ![Java](https://img.shields.io/badge/Java-DDD?logo=java&logoColor=ED8B00)
 ![Git](https://img.shields.io/badge/GIT-DDD?logo=git&logoColor=E44C30)
@@ -137,12 +139,12 @@ _Things I have done, and may not work on again_
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-DDD?logo=githubactions&logoColor=2088FF)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-DDD?logo=Apache-Maven&logoColor=C71A36)
 
-### ➡️ Sorting Algorithm Visualisation, **Personal Project**, *Jun 2021*
+#### ➡️ [Sorting Algorithm Visualisation](https://github.com/autumnssuns/Algorithm-Visualisation), **Personal Project**, *Jun 2021*
 
 ![C#](https://img.shields.io/badge/-C%23-DDD?logo=c-sharp&logoColor=239120)
 ![.NET](https://img.shields.io/badge/.NET-DDD?&logo=.net&logoColor=512BD4)
 
-### ➡️ Maze Generation Software, **CAB302: Software Development Project (for teaching)**, *Mar 2022 - Jun 2022*
+#### ➡️ [Maze Generation Software](https://github.com/autumnssuns/CAB302_2022_Maze), **CAB302: Software Development Project (for teaching)**, *Mar 2022 - Jun 2022*
 
 ![Java](https://img.shields.io/badge/Java-DDD?logo=java&logoColor=ED8B00)
 ![Git](https://img.shields.io/badge/GIT-DDD?logo=git&logoColor=E44C30)
@@ -150,14 +152,16 @@ _Things I have done, and may not work on again_
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-DDD?logo=githubactions&logoColor=2088FF)
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-DDD?logo=Apache-Ant&logoColor=A81C7D)
 
-### ➡️ Cat vs Dog breed classifier, **CAB420: Machine Learning Project (extended)**, *Jul 2022 - Aug 2022*
+#### ➡️ [Cat vs Dog breed classifier](https://github.com/autumnssuns/cat_dog_breed_jupyter),  **CAB420: Machine Learning Project (extended)**, *Jul 2022 - Aug 2022*
 
 ![Python](https://img.shields.io/badge/-Python-DDD?logo=Python&logoColor=3776AB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DDD?logo=TensorFlow&logoColor=FF6F00)
 ![Jupyter](https://img.shields.io/badge/Jupyter-DDD?logo=Jupyter&logoColor=F37626)
 ![Heroku](https://img.shields.io/badge/Heroku-DDD?logo=heroku&logoColor=430098)
 
-### ➡️ Alien Invader: Console Version, **Personal Project**, *Jul 2022*
+[![Heroku](https://img.shields.io/badge/Deployed-DDD?label=Heroku&labelColor=430098&style=for-the-&logo=heroku&logoColor=white)](https://jupyter-applications.herokuapp.com/)
+
+#### ➡️ Alien Invader: Console Version, **Personal Project**, *Jul 2022*
 
 ![C#](https://img.shields.io/badge/-C%23-DDD?logo=c-sharp&logoColor=239120)
 ![.NET](https://img.shields.io/badge/.NET-DDD?&logo=.net&logoColor=512BD4)
