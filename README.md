@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # 👋 Hey, it's Dan
 
+*Wanna have a chat? Reach out to me at d29.tran@connect.qut.edu.au or via [LinkedIn](https://www.linkedin.com/in/dtran-qut/).*
+
 My name is **Dan Tran** (he/him) and I am currently in my third (penultimate) year at the [Queensland University of Technology (QUT)](https://www.qut.edu.au/), Australia, undertaking a dual Bachelor degree in Mathematics (Applied & Computational Mathematics) and Information Technology (Computer Science).
 
 Academically, I am a high achiever with perfect GPA (7.0 / 7.0) 💯. Outside of my study, I am an educator 🧑‍🏫, a volunteer 💚 and a gamer 🎮.
