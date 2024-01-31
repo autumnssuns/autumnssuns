@@ -183,11 +183,11 @@ _Levelling up_
 
 <summary> Click to hide / show details </summary>
 
-👨‍💻 Bachelor of Information Technology (Computer Science) and, <br> 💻 Bachelor of Mathematics (Applied & Computational Mathematics), **Queensland University of Technology**, *2020 - Current*
+👨‍💻 Bachelor of Information Technology (Computer Science) and, <br> 💻 Bachelor of Mathematics (Applied & Computational Mathematics), **Queensland University of Technology**, *2020 - 2023*
 
 `> GPA: 7.0 / 7.0`
 
-`> Completion: 264 / 384 Credit Points`
+`> Completion: 384 / 384 Credit Points`
 
 🪶 START QUT, **Queensland University of Technology**, *2019*
 
